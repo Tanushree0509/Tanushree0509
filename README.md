@@ -1,6 +1,5 @@
 # 💫 About Me:
-Ascendant developer | 600+ problems solved on CodeChef | MERN Stack Learner | Adept in C++ | Tech Builder -​> Product Manager | Verbal Architect |
-
+Ascendant developer | 600+ problems solved | MERN Stack Learner | Adept in C++ | Tech Builder -​> Product Manager 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techtanvi05) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tanushreemaurya05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanushreemaurya05@gmail.com) 
